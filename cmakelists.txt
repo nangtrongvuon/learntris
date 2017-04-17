@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.6)
+
+set(SOURCE_FILES learntris.c)
+
+add_executable(learntris ${SOURCE_FILES})
